@@ -13,7 +13,6 @@ __pycache__/
 # Conda Environment Files
 *.conda
 env/
-*.yml
 
 # Virtual Environments
 .venv/
@@ -58,8 +57,6 @@ outputs/
 
 # Ignore Secrets and Configurations
 secrets.*
-config.yaml
-config.yml
 
 # Type Checking and Linting
 .mypy_cache/
